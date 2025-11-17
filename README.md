@@ -1,4 +1,4 @@
-# com.alura.conversor_monedas de Monedas 💱
+# Conversor de Monedas 💱
 
 ¡Bienvenido/a a mi proyecto de conversión de monedas!  Este repositorio
 contiene una pequeña aplicación de consola escrita en **Java** que
