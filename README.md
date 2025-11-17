@@ -1,4 +1,4 @@
-# com.alura.conversor_monedas.calculos.Conversor de Monedas 💱
+# com.alura.conversor_monedas de Monedas 💱
 
 ¡Bienvenido/a a mi proyecto de conversión de monedas!  Este repositorio
 contiene una pequeña aplicación de consola escrita en **Java** que
@@ -24,33 +24,6 @@ pragmático.
   variables están nombrados en español y documentados para que
   cualquier estudiante pueda entenderlos con facilidad.
 
-## 🚀 Cómo ejecutar
-
-Esta aplicación está diseñada para ejecutarse con **Java 17** (o
-cualquier versión que soporte `HttpClient`).  No necesitas un
-compilador aparte, ya que Java permite ejecutar archivos fuente
-directamente.
-
-1. **Clona o descarga** este repositorio y descomprímelo en tu
-   ordenador.
-2. Abre una terminal y navega hasta la carpeta `conversor_monedas`.
-3. Ejecuta el programa con el siguiente comando:
-
-   ```bash
-   java com.alura.conversor_monedas.calculos.Conversor.java
-   ```
-
-   Si prefieres compilarlo explícitamente, puedes usar `javac` (si
-   está disponible):
-
-   ```bash
-   javac com.alura.conversor_monedas.calculos.Conversor.java
-   java com.alura.conversor_monedas.calculos.Conversor
-   ```
-
-4. Sigue las instrucciones en pantalla, elige la conversión que
-   deseas y ¡listo!  El programa te mostrará el resultado en la
-   moneda destino con dos decimales.
 
 ## 🗂️ Estructura de clases
 
@@ -82,36 +55,9 @@ Durante el desarrollo de este proyecto he aprendido a:
 * Escribir documentación clara y crear un README que transmita
   entusiasmo y facilite la comprensión del proyecto.
 
-## 📚 Recursos útiles
-
-Para inspirarme y crear un README informativo, tomé como referencia
-este artículo de Alura: [Cómo escribir un README increíble en tu
-GitHub](https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github)【238424818490803†L60-L111】.  Además, la
-documentación oficial de ExchangeRate‑API fue fundamental para
-entender cómo construir la URL y qué campos utilizar en la
-respuesta.【238424818490803†L62-L112】
-
-## 🤝 Contribuciones
-
-¿Tienes ideas para ampliar este conversor?  ¡Son más que bienvenidas!
-Puedes crear una *fork* del repositorio, realizar tus mejoras y abrir
-un **pull request**.  Algunas posibles mejoras podrían ser:
-
-* Añadir más monedas o permitir ingresar códigos arbitrarios.
-* Implementar una interfaz gráfica con JavaFX o Swing.
-* Manejar errores de red de manera más elegante.
-* Escribir pruebas automáticas con JUnit para garantizar la calidad
-  del código.
-
-## 📝 Licencia
-
-Este proyecto se distribuye bajo la licencia MIT.  Siéntete libre de
-utilizarlo y adaptarlo para tus propios proyectos educativos o
-personales.
 
 ## 🙋‍♀️ Autor
 
-Me llamo **[Tu Nombre]** y soy un/a entusiasta de la programación en
-Java.  Disfruto creando proyectos que combinan teoría y práctica,
-especialmente cuando involucran APIs y procesamiento de datos.  Si
-tienes alguna duda o sugerencia, ¡no dudes en contactarme!
+Me llamo **David Manzueta** y soy un/a entusiasta de la programación en
+general.  Disfruto creando proyectos que combinan teoría y práctica,
+especialmente cuando involucran APIs y procesamiento de datos. 
